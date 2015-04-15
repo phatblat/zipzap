@@ -1,0 +1,7 @@
+
+framework module zipzap {
+	umbrella header "zipzap.h"
+
+	export *
+	module * { export * }
+}
